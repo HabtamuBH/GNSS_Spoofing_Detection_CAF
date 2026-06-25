@@ -122,6 +122,18 @@ MENU:
     title = {Parallelized Real-Time Cross-Ambiguity Function (CAF) Acceleration for GNSS Spoofing Detection},
     institution = {[Your Institution]},
     year = {2026}}
+
+License
+This project is licensed under the AAit.
+
+Acknowledgments
+Fitsum Assamnew Andargie, PhD
+Assistant Professor, Computer Engineering Chair
+RESONANCE AI4D Lab PI/Director
+School of Electrical and Computer Engineering
+College of Technology and Built Environment
+Addis Ababa University
+
 Contact
 Habtamu Bacha – GitHub
 
