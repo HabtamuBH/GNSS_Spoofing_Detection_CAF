@@ -4,7 +4,7 @@
 [![CUDA](https://img.shields.io/badge/CUDA-12.x-green)](https://developer.nvidia.com/cuda-toolkit)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-A high-performance, parallelized implementation of the **Cross-Ambiguity Function (CAF)** for **real-time GNSS spoofing detection**. This project implements three distinct approaches Sequential, OpenMP (CPU), and CUDA (GPU)—to demonstrate the power of parallel computing in critical infrastructure security.
+A high-performance, parallelized implementation of the **Cross-Ambiguity Function (CAF)** for **real-time GNSS spoofing detection**. This project implements three distinct approaches Sequential, OpenMP (CPU), and CUDA (GPU) to demonstrate the power of parallel computing in critical infrastructure security.
 
 ---
 
@@ -25,7 +25,7 @@ A high-performance, parallelized implementation of the **Cross-Ambiguity Functio
 
 ## Overview
 
-Global Navigation Satellite Systems (GNSS) are vulnerable to **spoofing attacks**—where counterfeit signals deceive a receiver into computing false position or time. This project addresses the computational bottleneck of the CAF, which requires **O(D × N²)** operations (13 billion per 1 ms at 25 Msps), by implementing:
+Global Navigation Satellite Systems (GNSS) are vulnerable to **spoofing attacks** where counterfeit signals deceive a receiver into computing false position or time. This project addresses the computational bottleneck of the CAF, which requires **O(D × N²)** operations (13 billion per 1 ms at 25 Msps), by implementing:
 
 | Implementation | Complexity | Hardware |
 |:---|:---|:---|
