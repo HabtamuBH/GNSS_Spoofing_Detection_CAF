@@ -44,7 +44,7 @@ The system achieves up to **49,285× speedup** over the sequential baseline on a
 - **OpenMP** CPU parallelization with SIMD vectorization
 - **CUDA** acceleration with shared memory and pinned memory
 - **Synthetic signal test** to validate algorithm correctness
-- **Scaling analysis** (5–25 Msps) with real-time compliance plots
+- **Scaling analysis** (5-25 Msps) with real-time compliance plots
 - **Thread scaling** and **H2D vs kernel** profiling
 - **Spoofing detection** via multi-peak anomaly analysis
 - **IEEE-style** results ready for publication
