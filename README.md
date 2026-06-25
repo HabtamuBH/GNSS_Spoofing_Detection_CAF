@@ -65,20 +65,8 @@ The project follows the **PCAM** (Partitioning, Communication, Agglomeration, Ma
 ---
 
 ## Project Structure
-GNSS_Spoofing_Detection_CAF/
-├── data/
-│ └── USRP_GPS_PRN30.bin # TEXBAT dataset (not included)
-├── results/
-│ ├── csv/ # Performance data (CSV)
-│ ├── plots/ # Generated figures
-│ └── logs/ # Benchmark logs
-├── src/
-│ └── gnss_caf_pcam.py # Main Python implementation
-├── scripts/
-│ ├── plot_correlation.py # Standalone plotting utilities
-│ └── plot_speedup.py
-├── README.md
-└── requirements.txt
+<img width="480" height="347" alt="image" src="https://github.com/user-attachments/assets/b3e03aea-deb2-4932-9856-d1ef0d1e46fb" />
+
 
 
 ---
