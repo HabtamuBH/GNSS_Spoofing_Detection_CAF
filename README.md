@@ -114,15 +114,15 @@ MENU:
   6. Thread Scaling Test (OpenMP only)
   7. CUDA H2D vs Kernel Profile
 
-  Citation
+Citation
   If you use this work, please cite:
-
   @techreport{Bacha2026GNSS,
     author = {Habtamu Bacha},
     title = {Parallelized Real-Time Cross-Ambiguity Function (CAF) Acceleration for GNSS Spoofing Detection},
     institution = {[Your Institution]},
-    year = {2026}}
-
+    year = {2026}
+}
+  
 License
 This project is licensed under the AAit.
 
